@@ -1,5 +1,5 @@
 # Computation-Science-Ass---Yguinto-Anjuvh-Baldwin
-
+Output:
 <img width="1260" height="723" alt="image" src="https://github.com/user-attachments/assets/876056de-a89c-4827-a6ea-7fac92b55750" />
 
 <img width="1599" height="559" alt="image" src="https://github.com/user-attachments/assets/8e08dac7-2074-4085-9372-fc6349c92479" />
@@ -8,6 +8,7 @@
 
 
 Pure Code: 
+
 import decimal
 import matplotlib.pyplot as plt
 
